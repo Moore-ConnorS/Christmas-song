@@ -13,6 +13,7 @@
 // before pushing your code, wait for instructions
 
 const daysOfChristmas = {
+<<<<<<< HEAD
     day1: "A monkey in a mango tree",
     day2: "",
     day3: "Three german roosters",
@@ -25,6 +26,20 @@ const daysOfChristmas = {
     day10: "",
     day11: "",
     day12: ""
+=======
+   day1: "",
+   day2: "",
+   day3: "",
+   day4: "",
+   day5: "Five gold rings",
+   day6: "",
+   day7: "",
+   day8: "",
+   day9: "Nine ladies dancing",
+   day10: "",
+   day11: "Eleven pipers piping",
+   day12: "Twelve drummers drumming"
+>>>>>>> 8f19550349ab0af20944ed2905a384aa997add73
 };
 
 // Real song lyrics
